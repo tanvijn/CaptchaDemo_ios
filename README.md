@@ -1,5 +1,4 @@
 # CaptchaDemo_ios
-==============
 
 A Swift project to showcase implementation of Google ReCaptcha in iOS Application.
 
